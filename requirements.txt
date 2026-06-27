@@ -1,0 +1,58 @@
+# Web Interface
+streamlit
+
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-groq
+python-dotenv
+langchain-chroma
+
+
+
+
+
+# Vector Database
+chromadb
+
+
+# Embedding Model
+sentence-transformers
+transformers
+torch
+
+
+# Document Loaders
+
+# PDF
+pypdf
+
+
+# DOCX
+docx2txt
+
+
+# XLSX
+unstructured
+openpyxl
+
+
+# Text Processing
+tiktoken
+
+
+# Data Processing
+numpy
+pandas
+
+
+# Environment Variables
+python-dotenv
+
+
+# Utilities
+requests
+tqdm
+
